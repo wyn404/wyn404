@@ -1,16 +1,20 @@
-### Hi there 👋
+## **Hey  There ! ** 👋
 
-<!--
-**wyn404/wyn404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,linux,python&theme=dark)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Second-year master student at [Southwest University](https://www.swu.edu.cn/)
+
+💻 Interested in java, spring and mysql
+
+🔈 Hobbies for basketball, music, hiking and play games
+
+📧 Email: 1506042595@qq.com
+
+🌱 **My recent projects**
+
+- [rpc-framework](https://github.com/wyn404/rpc-framework) - A lightweight distributed rpc framework based on Netty+Kryo+Zookeeper
+- [leetcode]() - Daily algorithm and data structure practice
+- [vhr](https://github.com/wyn404/vhr) - A backend management system based on SpringBoot
+- [activity recognition]() - Activity recognition based on 3D CNN
