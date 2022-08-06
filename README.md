@@ -15,6 +15,8 @@
 🌱 **My recent projects**
 
 - [rpc-framework](https://github.com/wyn404/rpc-framework) - A lightweight distributed rpc framework based on Netty+Kryo+Zookeeper
-- [leetcode]() - Daily algorithm and data structure practice
 - [vhr](https://github.com/wyn404/vhr) - A backend management system based on SpringBoot
-- [activity recognition]() - Activity recognition based on 3D CNN
+- [leetcode](https://github.com/wyn404/LeetCode) - Daily algorithm and data structure practice
+- [notebook](https://github.com/wyn404/Notebook) - Summary of some knowledge
+- [activity recognition](https://github.com/wyn404/Action-Recognition-3D-CNN) - Activity recognition based on 3D CNN
+
