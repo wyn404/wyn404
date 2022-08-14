@@ -10,7 +10,7 @@
 
 🔈 Hobbies for basketball, music, hiking and play games
 
-📧 Email: 1506042595@qq.com
+📧 Email: a12354565@qq.com
 
 🌱 **My recent projects**
 
