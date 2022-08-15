@@ -1,6 +1,5 @@
 ## **Hey  There !** 👋
 
-------
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,linux,python&theme=dark)](https://skillicons.dev)
 
