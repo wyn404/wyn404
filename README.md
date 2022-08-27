@@ -3,13 +3,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,linux,python&theme=dark)](https://skillicons.dev)
 
-🎓 Second-year master student at [Southwest University](https://www.swu.edu.cn/)
+🎓 Third-year master student at [Southwest University](https://www.swu.edu.cn/)
 
 💻 Interested in java, spring and mysql
 
 🔈 Hobbies for basketball, music, hiking and play games
 
-📧 Email: a12354565@qq.com
+📧 Email: a1212356@outlook.com
 
 🌱 **My recent projects**
 
