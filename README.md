@@ -1,7 +1,7 @@
 ## **Hey  There !** 👋
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,github,latex,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,latex,github,git,vscode,linux&theme=dark)](https://skillicons.dev)
 
 🎓 First-year PhD student at [Shandong University](https://www.sdu.edu.cn/)
 
